@@ -1,0 +1,43 @@
+{
+  "introduction": "Hi, I'm an Economics major student in Seoul National University!",
+  "contact": {
+    "tel": "+82 10 3607 0499",
+    "email": "dpcks9427@snu.ac.kr"
+  },
+  "education": [
+    {
+      "degree": [
+        "B.A. in Economics",
+        "B.S. in Mathematical Sciences",
+        "B.S. in Computational Sciences"
+      ],
+      "school": "Seoul National University",
+      "year": "2019-2025",
+      "service": "Military Service in Korea Air Force, 2022-2023."
+    },
+    {
+      "degree": "M.Sc. in Mathematical and Computational Finance",
+      "school": "Univerity of Oxford",
+      "year": "2025-2026"
+    }
+  ],
+  "employment": [
+    {
+      "company": "YCJ Corporation",
+      "position": "CFO",
+      "year": "2022-2023"
+    },
+    {
+      "company": "SML Corporation",
+      "position": "CEO",
+      "year": "2024"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Field Application of Blockchain 1",
+      "role": "Teaching Assistant",
+      "year": "2023"
+    }
+  ]
+}
