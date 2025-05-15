@@ -1,6 +1,6 @@
 # Building_Personal_Website
 
-This project involves building my private website.
+This project involves building my private website. The UI is intuitive, so only explantion about the Visitors Page is written below.
 
 ## How to Use the Visitors Page (Including Administrator Access)
 
@@ -11,7 +11,7 @@ This project involves building my private website.
    Log in with the same ID and password you used to post a message to view, edit (including toggling public/private), or delete it. While logged in, click **Logout** to sign out. Attempting to log in with credentials that haven’t been used to post will display “Invalid ID or Password.”
 
 3. **Administrator Login**  
-   **IMPORTANT:** Log in with  
+   Log in with  
 ID: Admin  
 Password: 1234
 to see all messages (including secret ones) and delete any message as needed.
