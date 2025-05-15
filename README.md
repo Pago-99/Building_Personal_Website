@@ -1,6 +1,6 @@
 # Building_Personal_Website
 
-This project involves building my private website. The UI is intuitive, so only explantion about the Visitors Page is written below.
+This project involves building my private website. The UI is intuitive, so only instructions about the Visitors Page are provided below.
 
 ## How to Use the Visitors Page (Including Administrator Access)
 
