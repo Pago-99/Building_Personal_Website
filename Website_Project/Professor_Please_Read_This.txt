@@ -1,6 +1,0 @@
-Visitors page 사용방법(관리자로 접속하는 방법을 알려드리기 위해 작성합니다.)
-
-1. ID와 Password를 입력하고 메시지를 쓸 수 있습니다. 메시지와 자신의 이름을 secret checkbox를 이용해 비공개로 할 수도 있고, 공개로 할 수도 있습니다. 작성시간은 Secret을 check했는지 여부와 관계 없이 공개됩니다.
-2. 자신이 입력한 편지는 자신이 편지를 작성할 때 입력한 ID와 Password로 Login함으로써 확인, 수정(공개/비공개 여부도 수정 가능), 삭제가 가능합니다. Login된 상태에서는 Logout 버튼을 클릭하여 로그아웃할 수 있습니다. 편지를 작성하지 않은 ID와 Password로 Login을 시도하면 Invalid ID or Password임을 알려줍니다.
-3. (중요!!!) ID를 Admin, Password를 1234로 입력하여 Login하면, Secret Message를 포함한 모든 Message를 볼 수 있고, 원하는 Message를 삭제할 수 있습니다.
-4. 한 학기 교수님 수업 즐겁게 들으면서 많이 배웠습니다. 존경합니다. 감사합니다. 새해 복 많이 받으시고, 내년 계산과학 수업에서 다시 뵙겠습니다 :)
