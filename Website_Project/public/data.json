@@ -16,20 +16,20 @@
       "service": "Military Service in Korea Air Force, 2022-2023."
     },
     {
-      "degree": "M.Sc. in Mathematical and Computational Finance",
-      "school": "Univerity of Oxford",
+      "degree": "MPhil",
+      "school": "Univerity of Somewhere",
       "year": "2025-2026"
     }
   ],
   "employment": [
     {
       "company": "YCJ Corporation",
-      "position": "CFO",
+      "position": "Fake CFO",
       "year": "2022-2023"
     },
     {
       "company": "SML Corporation",
-      "position": "CEO",
+      "position": "Fake CEO",
       "year": "2024"
     }
   ],
